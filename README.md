@@ -7,16 +7,11 @@ License MIT
 
 JQuery Documentation:
 http://arshaw.com/fullcalendar/docs/
-Yii2 Extension by <philipp@frenzel.net>
 
 A tiny sample can be found here:
 http://yii2-fullcalendar.beeye.org
 
-[![Latest Stable Version](https://poser.pugx.org/hjp1011/yii2-fullcalendar/v/stable.svg)](https://packagist.org/packages/hjp1011/yii2-fullcalendar)
-[![Build Status](https://travis-ci.org/hjp1011/yii2-fullcalendar.svg?branch=master)](https://travis-ci.org/hjp1011/yii2-fullcalendar)
-[![Code Climate](https://codeclimate.com/github/hjp1011/yii2-fullcalendar.png)](https://codeclimate.com/github/hjp1011/yii2-fullcalendar)
-[![Version Eye](https://www.versioneye.com/php/hjp1011:yii2-fullcalendar/badge.svg)](https://www.versioneye.com/php/hjp1011:yii2-fullcalendar)
-[![License](https://poser.pugx.org/hjp1011/yii2-fullcalendar/license.svg)](https://packagist.org/packages/hjp1011/yii2-fullcalendar)
+[![Latest Stable Version](http://poser.pugx.org/hjp1011/yii2-fullcalendar/v)](https://packagist.org/packages/hjp1011/yii2-fullcalendar) [![Total Downloads](http://poser.pugx.org/hjp1011/yii2-fullcalendar/downloads)](https://packagist.org/packages/hjp1011/yii2-fullcalendar) [![Latest Unstable Version](http://poser.pugx.org/hjp1011/yii2-fullcalendar/v/unstable)](https://packagist.org/packages/hjp1011/yii2-fullcalendar) [![License](http://poser.pugx.org/hjp1011/yii2-fullcalendar/license)](https://packagist.org/packages/hjp1011/yii2-fullcalendar) [![PHP Version Require](http://poser.pugx.org/hjp1011/yii2-fullcalendar/require/php)](https://packagist.org/packages/hjp1011/yii2-fullcalendar)
 
 Installation
 ============
