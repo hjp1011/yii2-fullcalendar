@@ -2,9 +2,7 @@
 
  /**
  * This class is used to embed FullCalendar JQuery Plugin to my Yii2 Projects
- * @copyright Frenzel GmbH - www.frenzel.net
- * @link http://www.frenzel.net
- * @author Philipp Frenzel <philipp@frenzel.net>
+ * @author hjp1011 <hjp1011@163.com>
  *
  */
 

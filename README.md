@@ -31,11 +31,6 @@ And ensure, that you have the following plugin installed global:
 
 > php composer.phar global require "fxp/composer-asset-plugin:~1.0"
 
-Changelog
----------
-
-19-01-2017 Updated to include non-standard fields
-29-11-2014 Updated to latest 2.2.3 Version of the library
 
 Usage
 =====

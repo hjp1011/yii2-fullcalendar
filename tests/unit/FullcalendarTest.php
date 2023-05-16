@@ -7,10 +7,7 @@ use \yii2fullcalendar\yii2fullcalendar;
 /**
  * This is MasonryTest unit test.
  *
- * @see       yii2masonry\yii2masonry
- * @license   https://github.com/philippfrenzel/yii2masonry/blob/master/LICENSE.md MIT
- *
- * @author    Philipp Frenzel <philipp@frenzel.net>
+ * @author hjp1011 <hjp1011@163.com>
  */
 
 class FullcalendarTest extends \Codeception\TestCase\Test

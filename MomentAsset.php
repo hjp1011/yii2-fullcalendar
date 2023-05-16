@@ -5,8 +5,7 @@ namespace yii2fullcalendar;
 use yii\web\AssetBundle;
 
 /**
- * @link http://www.frenzel.net/
- * @author Philipp Frenzel <philipp@frenzel.net> 
+ * @author hjp1011 <hjp1011@163.com> 
  */
 
 class MomentAsset extends AssetBundle
